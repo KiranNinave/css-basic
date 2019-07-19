@@ -1,0 +1,14 @@
+1. use one base flat colour and using that generate dark and light shades
+2. use tools like adobe colour cc to generate colour palet if we want more colours
+3. use colours to draw attension (ex: on buttons and links)
+4. newer use complite black colour on your design because black colour dosen't feel natural
+
+choose colour wisely (there are meaning to each colours)
+red := power, passion, strenght, exitement 
+orange := cheerfullness and creativity, friendlyness, confidence and courage, not overpowered as red
+yellow := energetic, happiness, curiosity, intelligence, brightness
+green := nature, life, helth, money
+blue := patience, peace, professionalism, trustworthyness, onner
+purpule := power, ability and wealth, royelty, mistry
+pink := care, peace, affection
+brown := relaxation and confidence, earhness, compfort, durability

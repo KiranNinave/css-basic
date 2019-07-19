@@ -1,0 +1,5 @@
+1. use icons to list features or for steps that have to followed by the user
+2. use icons for actions and list
+3. icons should be recognizable 
+4. label your icons
+5. use icon fonts (vector icon) rather than images ( icon fonts easyly scale for eany resolution )

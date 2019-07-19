@@ -1,0 +1,10 @@
+use white space
+1. put whitespace between your elements
+2. put whitespace between your groups of elements
+3. put whitespace between your website's sections
+4. but dont exaggerate
+
+define hierarchy
+1. define where you want your audience to look first
+2. establish a flow that corresponds to your content's message
+3. use whitespace to build that flow

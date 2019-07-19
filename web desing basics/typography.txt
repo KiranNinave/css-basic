@@ -1,0 +1,23 @@
+1. use font size between 15 to 25 px
+2. use bigger font for headline but font weight should be less (100)
+3.  use line spacing between 120% to 150% (note : ideal is 100%)
+4. 45 to 90 characters per line (mean 78) so it become easy to read
+
+use good fonts
+some good fonts
+
+sans serif
+more natural, clean, simple and good for morden websites
+some nice sans-serif fonts
+1. open sans
+2. lato
+3. raleway
+4. monsterrat
+5. PT sans
+
+serif
+use for traditional purpose, story telling or long reading
+some nice serif font
+1. cardo
+2. merriweather
+3. PT serif

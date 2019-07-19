@@ -1,0 +1,4 @@
+1. put your text over image but use black colour for overly on image
+2. put your text in box (white transperent or other ) over image
+3. blur the image or use out of focus area as blur
+4. the floor fade ( use black overly at certain part of the image and give white text over )
